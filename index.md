@@ -44,6 +44,10 @@ I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unr
 
 [Smith'Inn's Company - Redacted6] (https://www.facebook.com/Redacted6)
 
+* **VR Project**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vdfBVo6la4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Go in the `Settings` page of your repository, in the `Github Pages`, under the `Source` parameter, choose `master branch` then `Save`.
 
 ### That's it
