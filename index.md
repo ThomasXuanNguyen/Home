@@ -12,7 +12,7 @@ A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](h
 
 ## Home
 
-* [Linkedln]("https://www.linkedin.com/in/thomas-xuan-nguyen/) 
+* [Linkedln](https://www.linkedin.com/in/thomas-xuan-nguyen/) 
 * [GitHub](https://github.com/ThomasXuanNguyen)
 
 ### Fork this repository
