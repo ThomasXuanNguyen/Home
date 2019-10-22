@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: Thomas Xuan Nguyen's Portfolio Website
 ---
 
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
@@ -10,7 +10,9 @@ A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](h
 * Full support of Bootstrap's JavaScript plugins.
 * Supports all features of Github Pages and Jekyll.
 
-## Setup Guide
+## Home
+* [Linkedln]("https://www.linkedin.com/in/thomas-xuan-nguyen/) 
+* [GitHub](https://github.com/ThomasXuanNguyen)
 
 ### Fork this repository
 
