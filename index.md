@@ -11,6 +11,7 @@ title: Thomas Xuan Nguyen's Portfolio Website
 ### Contact Me
 
 Phone Number: 0410331758
+
 Email: thomas.nguyen898/gmail.com
 
 ### About Me
@@ -38,6 +39,10 @@ I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unr
   Go in the `Settings` page of your repository and rename it to `<whatever you want>`.
 
 ### Project
+
+* **Smith'Inn**
+
+[Smith'Inn's Company(Redacted6)] (https://www.facebook.com/Redacted6)
 
 Go in the `Settings` page of your repository, in the `Github Pages`, under the `Source` parameter, choose `master branch` then `Save`.
 
