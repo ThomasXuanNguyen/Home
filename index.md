@@ -42,7 +42,7 @@ I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unr
 
 * **Smith'Inn**
 
-[Smith'Inn's Company(Redacted6)] (https://www.facebook.com/Redacted6)
+[Smith'Inn's Company - Redacted6] (https://www.facebook.com/Redacted6)
 
 Go in the `Settings` page of your repository, in the `Github Pages`, under the `Source` parameter, choose `master branch` then `Save`.
 
