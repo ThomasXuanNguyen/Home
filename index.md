@@ -11,6 +11,7 @@ A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](h
 * Supports all features of Github Pages and Jekyll.
 
 ## Home
+
 * [Linkedln]("https://www.linkedin.com/in/thomas-xuan-nguyen/) 
 * [GitHub](https://github.com/ThomasXuanNguyen)
 
