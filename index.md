@@ -3,25 +3,27 @@ layout: page
 title: Thomas Xuan Nguyen's Portfolio Website
 ---
 
-A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
-
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
-
 ## Home
 
-* [Linkedln](https://www.linkedin.com/in/thomas-xuan-nguyen/) 
+* [Linkedln](https://www.linkedin.com/in/thomas-xuan-nguyen) 
 * [GitHub](https://github.com/ThomasXuanNguyen)
 
-### Fork this repository
+### Contact Me
 
-[Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages) and click the `Fork` button on the top right of the page.
+Phone Number: 0410331758
+Email: thomas.nguyen898/gmail.com
 
-### Rename your forked repository
+### About Me
 
 Here we have two possibilities:
+
+My name is Thomas Nguyen. I am a games programmer who is currently studying for my Advance Diploma of Professional Game Development.
+
+I am a hard worker, good communicator and punctual.
+
+I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unreal.
+
+[Resume](https://www.slideshare.net/slideshow/embed_code/key/tWrouxbmjC6hHN)
 
 * **You want a user or organization website**
 
@@ -35,7 +37,7 @@ Here we have two possibilities:
 
   Go in the `Settings` page of your repository and rename it to `<whatever you want>`.
 
-### Activate Github Pages on your repository
+### Project
 
 Go in the `Settings` page of your repository, in the `Github Pages`, under the `Source` parameter, choose `master branch` then `Save`.
 
