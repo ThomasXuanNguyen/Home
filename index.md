@@ -36,7 +36,7 @@ I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vdfBVo6la4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<Image src="/assets/image.jpg 171x180" thumbnail>
+<Image width="171" height="180" src="{{"/assets/image.jpg" | relative_url}}" Image>
 
 ###
 
