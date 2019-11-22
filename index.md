@@ -2,7 +2,7 @@
 layout: page
 title: Thomas Xuan Nguyen's Portfolio Website
 ---
-
+<img width="171" height="180" src="https://media.licdn.com/dms/image/C5103AQH0Ladp3SGVEQ/profile-displayphoto-shrink_200_200/0?e=1579737600&v=beta&t=YmJQYEpTWRx_cy0mwZcGfdCDINNgE5W_5I_V7sp7CPI">
 ## Home
 
 * [Linkedln](https://www.linkedin.com/in/thomas-xuan-nguyen) 
@@ -36,7 +36,5 @@ I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vdfBVo6la4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<img width="171" height="180" src="https://media.licdn.com/dms/image/C5103AQH0Ladp3SGVEQ/profile-displayphoto-shrink_200_200/0?e=1579737600&v=beta&t=YmJQYEpTWRx_cy0mwZcGfdCDINNgE5W_5I_V7sp7CPI">
 
-###
 
