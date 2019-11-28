@@ -31,7 +31,7 @@ I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unr
 
 [Smith'Inn's Company - Redacted6](https://www.facebook.com/Redacted6)
 
-<iframe width="1000" height="750" margin = "auto" src="https://www.youtube.com/embed/1W9WNkDU81U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="750" src="https://www.youtube.com/embed/1W9WNkDU81U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * **VR Project**
 
