@@ -16,7 +16,6 @@ Email: thomas.nguyen898.gmail.com
 
 ### About Me
 
-Here we have two possibilities:
 
 My name is Thomas Nguyen. I am a games programmer who is currently studying for my Advance Diploma of Professional Game Development.
 
@@ -31,11 +30,12 @@ I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unr
 * **Smith'Inn**
 
 [Smith'Inn's Company - Redacted6](https://www.facebook.com/Redacted6)
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=1W9WNkDU81U&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="1252" height="704" src="https://www.youtube.com/embed/1W9WNkDU81U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * **VR Project**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vdfBVo6la4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1252" height="704" src="https://www.youtube.com/embed/vdfBVo6la4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
