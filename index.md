@@ -2,7 +2,7 @@
 layout: page
 title: Thomas Xuan Nguyen's Portfolio Website
 ---
-<img width="171" height="180" src="https://media.licdn.com/dms/image/C5103AQH0Ladp3SGVEQ/profile-displayphoto-shrink_200_200/0?e=1579737600&v=beta&t=YmJQYEpTWRx_cy0mwZcGfdCDINNgE5W_5I_V7sp7CPI">
+<img width="300" height="300" src="https://media.licdn.com/dms/image/C5103AQH0Ladp3SGVEQ/profile-displayphoto-shrink_200_200/0?e=1579737600&v=beta&t=YmJQYEpTWRx_cy0mwZcGfdCDINNgE5W_5I_V7sp7CPI">
 ## Home
 
 * [Linkedln](https://www.linkedin.com/in/thomas-xuan-nguyen) 
