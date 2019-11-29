@@ -18,6 +18,7 @@ Email: thomas.nguyen898.gmail.com
 
 
 My name is Thomas Nguyen. I am a games programmer who is currently studying for my Advance Diploma of Professional Game Development.
+I already have my diploma of Digital and Interactive Games.
 
 I am a hard worker, good communicator and punctual.
 
