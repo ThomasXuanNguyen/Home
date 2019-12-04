@@ -22,7 +22,7 @@ title: Thomas Xuan Nguyen's Portfolio Website
 
 <!-- Tab panes -->
 <div class="tab-content">
-  <div class="tab-pane active" id="home" role="tabpanel" aria-labelledby="home-tab">Hello</div>
+  <div class="tab-pane active" id="home" role="tabpanel" aria-labelledby="home-tab"><h2>Hello</h2></div>
   <div class="tab-pane" id="profile" role="tabpanel" aria-labelledby="profile-tab">Goodbye</div>
   <div class="tab-pane" id="messages" role="tabpanel" aria-labelledby="messages-tab">Yes</div>
   <div class="tab-pane" id="settings" role="tabpanel" aria-labelledby="settings-tab">No</div>
