@@ -22,10 +22,16 @@ title: Thomas Xuan Nguyen's Portfolio Website
 
 <!-- Tab panes -->
 <div class="tab-content">
-  <div class="tab-pane active" id="home" role="tabpanel" aria-labelledby="home-tab"><h2>Hello</h2>
-  <p>Hello</p>
-  <br>
+  <div class="tab-pane active" id="home" role="tabpanel" aria-labelledby="home-tab">
+  <h2>Home</h2>
   <a href="https://www.linkedin.com/in/thomas-xuan-nguyen">Linkedin</a>
+  <a href="https://github.com/ThomasXuanNguyen">GitHub</a>
+  <h2>About Me</h2
+  <p>My name is Thomas Nguyen. I am a games programmer who is currently studying for my Advance Diploma of Professional Game Development.</p>
+  <p>I already have my diploma of Digital and Interactive Games.</p>
+  <p>I am a hard worker, good communicator and punctual.</p>
+  <p>I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unreal.</p>
+  <a href="https://www.slideshare.net/slideshow/embed_code/key/tWrouxbmjC6hHN">Resume</a>
   </div>
   <div class="tab-pane" id="profile" role="tabpanel" aria-labelledby="profile-tab">Goodbye</div>
   <div class="tab-pane" id="messages" role="tabpanel" aria-labelledby="messages-tab">Yes</div>
