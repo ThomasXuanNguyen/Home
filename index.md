@@ -34,7 +34,9 @@ I already have my diploma of Digital and Interactive Games.</body>
 
 <body>I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unreal.</body>
 
-<li> <a href="https://www.slideshare.net/slideshow/embed_code/key/tWrouxbmjC6hHN">Resume</a></div>
+<li> <a href="https://www.slideshare.net/slideshow/embed_code/key/tWrouxbmjC6hHN">Resume</a>
+
+</div>
 
 <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
 ### Project
@@ -58,7 +60,6 @@ I already have my diploma of Digital and Interactive Games.</body>
 Phone Number: 0410331758
 
 Email: thomas.nguyen898.gmail.com
-</div>
 </div>
 
 ## Home
