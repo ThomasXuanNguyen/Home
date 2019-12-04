@@ -15,9 +15,10 @@ title: Thomas Xuan Nguyen's Portfolio Website
     <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Contact</a>
   </li>
 </ul>
+
 <div class="tab-content" id="myTabContent">
   <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-  
+<h2 id="home">Home</h2>
 *[Linkedln](https://www.linkedin.com/in/thomas-xuan-nguyen) 
 
 *[GitHub](https://github.com/ThomasXuanNguyen)
@@ -50,15 +51,12 @@ I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unr
 </div>
 
 <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-
 ### Contact Me
 
 Phone Number: 0410331758
 
 Email: thomas.nguyen898.gmail.com
-
 </div>
-
 </div>
 
 ## Home
