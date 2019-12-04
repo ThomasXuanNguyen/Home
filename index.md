@@ -23,7 +23,7 @@ title: Thomas Xuan Nguyen's Portfolio Website
 
 <li> <a href="https://www.linkedin.com/in/thomas-xuan-nguyen">Linkedln</a>
 
-*[GitHub](https://github.com/ThomasXuanNguyen)
+<li> <a href="https://github.com/ThomasXuanNguyen">GitHub</a>
 
 ### About Me
 
