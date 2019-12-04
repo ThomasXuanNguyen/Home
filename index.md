@@ -17,8 +17,11 @@ title: Thomas Xuan Nguyen's Portfolio Website
 </ul>
 <div class="tab-content" id="myTabContent">
   <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+  
 *[Linkedln](https://www.linkedin.com/in/thomas-xuan-nguyen) 
+
 *[GitHub](https://github.com/ThomasXuanNguyen)
+
 ### About Me
 
 My name is Thomas Nguyen. I am a games programmer who is currently studying for my Advance Diploma of Professional Game Development.
@@ -30,10 +33,11 @@ I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unr
 
 [Resume](https://www.slideshare.net/slideshow/embed_code/key/tWrouxbmjC6hHN)
 </div>
-  <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-  ### Project
 
-* **Smith'Inn**
+<div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+### Project
+
+***Smith'Inn**
 
 [Smith'Inn's Company - Redacted6](https://www.facebook.com/Redacted6)
 
@@ -42,14 +46,19 @@ I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unr
 ***VR Project**
 
 <iframe width="750" height="750" src="https://www.youtube.com/embed/vdfBVo6la4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </div>
-  <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-  ### Contact Me
+
+<div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+
+### Contact Me
 
 Phone Number: 0410331758
 
 Email: thomas.nguyen898.gmail.com
+
 </div>
+
 </div>
 
 ## Home
