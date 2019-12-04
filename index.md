@@ -46,18 +46,3 @@ title: Thomas Xuan Nguyen's Portfolio Website
   <p>Email: thomas.nguyen898.gmail.com</p>
   </div>
 </div>
-
-### Project
-
-* **Smith'Inn**
-
-[Smith'Inn's Company - Redacted6](https://www.facebook.com/Redacted6)
-
-<iframe width="750" height="750" src="https://www.youtube.com/embed/1W9WNkDU81U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* **VR Project**
-
-<iframe width="750" height="750" src="https://www.youtube.com/embed/vdfBVo6la4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
