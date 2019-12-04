@@ -17,24 +17,16 @@ title: Thomas Xuan Nguyen's Portfolio Website
 </ul>
 
 <div class="tab-content" id="myTabContent">
-  <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-
+<div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
 <h2 id="home">Home</h2>
-
 <li> <a href="https://www.linkedin.com/in/thomas-xuan-nguyen">Linkedln</a>
-
 <li> <a href="https://github.com/ThomasXuanNguyen">GitHub</a>
-
 <h2 id="about me">About Me</h2>
-
 <p>My name is Thomas Nguyen. I am a games programmer who is currently studying for my Advance Diploma of Professional Game Development.
 I already have my diploma of Digital and Interactive Games.</p>
-
 <p>I am a hard worker, good communicator and punctual.</p>
-
 <p>I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unreal.</p>
-
-<li> <a href="https://www.slideshare.net/slideshow/embed_code/key/tWrouxbmjC6hHN">Resume</a>
+<li> <a href="https://www.slideshare.net/slideshow/embed_code/key/tWrouxbmjC6hHN">Resume</a></div>
 
 <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
 <h3 id="project">Project</h3>
@@ -78,15 +70,7 @@ I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unr
 
 [Resume](https://www.slideshare.net/slideshow/embed_code/key/tWrouxbmjC6hHN)
 
-### Project
-
-* **Smith'Inn**
-
-[Smith'Inn's Company - Redacted6](https://www.facebook.com/Redacted6)
-
 <iframe width="750" height="750" src="https://www.youtube.com/embed/1W9WNkDU81U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* **VR Project**
 
 <iframe width="750" height="750" src="https://www.youtube.com/embed/vdfBVo6la4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
