@@ -27,12 +27,12 @@ title: Thomas Xuan Nguyen's Portfolio Website
 
 <h2 id="about me">About Me</h2>
 
-<body>My name is Thomas Nguyen. I am a games programmer who is currently studying for my Advance Diploma of Professional Game Development.
-I already have my diploma of Digital and Interactive Games.</body>
+<p>My name is Thomas Nguyen. I am a games programmer who is currently studying for my Advance Diploma of Professional Game Development.
+I already have my diploma of Digital and Interactive Games.</p>
 
-<body>I am a hard worker, good communicator and punctual.</body>
+<p>I am a hard worker, good communicator and punctual.</p>
 
-<body>I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unreal.</body>
+<p>I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unreal.</p>
 
 <li> <a href="https://www.slideshare.net/slideshow/embed_code/key/tWrouxbmjC6hHN">Resume</a>
 
