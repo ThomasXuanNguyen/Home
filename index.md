@@ -3,6 +3,24 @@ layout: page
 title: Thomas Xuan Nguyen's Portfolio Website
 ---
 <img width="300" height="300" src="https://media.licdn.com/dms/image/C5103AQH0Ladp3SGVEQ/profile-displayphoto-shrink_200_200/0?e=1579737600&v=beta&t=YmJQYEpTWRx_cy0mwZcGfdCDINNgE5W_5I_V7sp7CPI" styles = "display: block; margin-left: auto; margin-right: auto">
+
+<ul class="nav nav-tabs" id="myTab" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Home</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Profile</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Contact</a>
+  </li>
+</ul>
+<div class="tab-content" id="myTabContent">
+  <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">...</div>
+  <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">...</div>
+  <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">...</div>
+</div>
+
 ## Home
 
 * [Linkedln](https://www.linkedin.com/in/thomas-xuan-nguyen) 
