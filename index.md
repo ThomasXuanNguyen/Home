@@ -13,9 +13,6 @@ title: Thomas Xuan Nguyen's Portfolio Website
     <a class="nav-link" id="project-tab" data-toggle="tab" href="#project" role="tab" aria-controls="project" aria-selected="false">Project</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" id="messages-tab" data-toggle="tab" href="#messages" role="tab" aria-controls="messages" aria-selected="false">Messages</a>
-  </li>
-  <li class="nav-item">
     <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Contact Me</a>
   </li>
 </ul>
@@ -38,7 +35,9 @@ title: Thomas Xuan Nguyen's Portfolio Website
   <div class="tab-pane" id="project" role="tabpanel" aria-labelledby="project-tab">
   Goodbye
   </div>
-  <div class="tab-pane" id="contactme" role="tabpanel" aria-labelledby="contact-tab">Yes</div>
+  <div class="tab-pane" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+  Yes
+  </div>
 </div>
 
 
