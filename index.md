@@ -10,13 +10,13 @@ title: Thomas Xuan Nguyen's Portfolio Website
     <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Home</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Profile</a>
+    <a class="nav-link" id="project-tab" data-toggle="tab" href="#project" role="tab" aria-controls="project" aria-selected="false">Project</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" id="messages-tab" data-toggle="tab" href="#messages" role="tab" aria-controls="messages" aria-selected="false">Messages</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" id="settings-tab" data-toggle="tab" href="#settings" role="tab" aria-controls="settings" aria-selected="false">Settings</a>
+    <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Contact Me</a>
   </li>
 </ul>
 
@@ -35,9 +35,10 @@ title: Thomas Xuan Nguyen's Portfolio Website
   <p>I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unreal.</p>
   <a href="https://www.slideshare.net/slideshow/embed_code/key/tWrouxbmjC6hHN">Resume</a>
   </div>
-  <div class="tab-pane" id="profile" role="tabpanel" aria-labelledby="profile-tab">Goodbye</div>
-  <div class="tab-pane" id="messages" role="tabpanel" aria-labelledby="messages-tab">Yes</div>
-  <div class="tab-pane" id="settings" role="tabpanel" aria-labelledby="settings-tab">No</div>
+  <div class="tab-pane" id="project" role="tabpanel" aria-labelledby="project-tab">
+  Goodbye
+  </div>
+  <div class="tab-pane" id="contactme" role="tabpanel" aria-labelledby="contact-tab">Yes</div>
 </div>
 
 
@@ -59,28 +60,12 @@ title: Thomas Xuan Nguyen's Portfolio Website
 
 
 
-## Home
-
-* [Linkedln](https://www.linkedin.com/in/thomas-xuan-nguyen) 
-* [GitHub](https://github.com/ThomasXuanNguyen)
 
 ### Contact Me
 
 Phone Number: 0410331758
 
 Email: thomas.nguyen898.gmail.com
-
-### About Me
-
-
-My name is Thomas Nguyen. I am a games programmer who is currently studying for my Advance Diploma of Professional Game Development.
-I already have my diploma of Digital and Interactive Games.
-
-I am a hard worker, good communicator and punctual.
-
-I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unreal.
-
-[Resume](https://www.slideshare.net/slideshow/embed_code/key/tWrouxbmjC6hHN)
 
 ### Project
 
