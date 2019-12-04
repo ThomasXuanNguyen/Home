@@ -25,8 +25,10 @@ title: Thomas Xuan Nguyen's Portfolio Website
   <div class="tab-pane active" id="home" role="tabpanel" aria-labelledby="home-tab">
   <h2>Home</h2>
   <a href="https://www.linkedin.com/in/thomas-xuan-nguyen">Linkedin</a>
+  <br>
   <a href="https://github.com/ThomasXuanNguyen">GitHub</a>
-  <h2>About Me</h2
+  <br>
+  <h2>About Me</h2>
   <p>My name is Thomas Nguyen. I am a games programmer who is currently studying for my Advance Diploma of Professional Game Development.</p>
   <p>I already have my diploma of Digital and Interactive Games.</p>
   <p>I am a hard worker, good communicator and punctual.</p>
