@@ -37,15 +37,15 @@ I already have my diploma of Digital and Interactive Games.</p>
 <li> <a href="https://www.slideshare.net/slideshow/embed_code/key/tWrouxbmjC6hHN">Resume</a>
 
 <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-### Project
+<h3 id="project">Project</h3>
 
-***Smith'Inn**
+<h2 id="smithinn">Smith'Inn</h2>
 
-[Smith'Inn's Company - Redacted6](https://www.facebook.com/Redacted6)
+<li> <a href="https://www.facebook.com/Redacted6">Smith'Inn's Company - Redacted6</a>
 
 <iframe width="750" height="750" src="https://www.youtube.com/embed/1W9WNkDU81U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-***VR Project**
+<h2 id="vrporject">VR Project</h2>
 
 <iframe width="750" height="750" src="https://www.youtube.com/embed/vdfBVo6la4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
