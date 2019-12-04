@@ -18,8 +18,10 @@ title: Thomas Xuan Nguyen's Portfolio Website
 
 <div class="tab-content" id="myTabContent">
   <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+
 <h2 id="home">Home</h2>
-*[Linkedln](https://www.linkedin.com/in/thomas-xuan-nguyen) 
+
+<li> <a href="https://www.linkedin.com/in/thomas-xuan-nguyen">Linkedln</a>
 
 *[GitHub](https://github.com/ThomasXuanNguyen)
 
