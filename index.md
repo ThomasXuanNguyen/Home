@@ -36,8 +36,6 @@ I already have my diploma of Digital and Interactive Games.</p>
 
 <li> <a href="https://www.slideshare.net/slideshow/embed_code/key/tWrouxbmjC6hHN">Resume</a>
 
-</div>
-
 <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
 ### Project
 
