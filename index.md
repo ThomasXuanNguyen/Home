@@ -62,11 +62,6 @@ Phone Number: 0410331758
 Email: thomas.nguyen898.gmail.com
 </div>
 
-## Home
-
-* [Linkedln](https://www.linkedin.com/in/thomas-xuan-nguyen) 
-* [GitHub](https://github.com/ThomasXuanNguyen)
-
 ### Contact Me
 
 Phone Number: 0410331758
