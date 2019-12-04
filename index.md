@@ -33,38 +33,19 @@ title: Thomas Xuan Nguyen's Portfolio Website
   <a href="https://www.slideshare.net/slideshow/embed_code/key/tWrouxbmjC6hHN">Resume</a>
   </div>
   <div class="tab-pane" id="project" role="tabpanel" aria-labelledby="project-tab">
-  Goodbye
+  <h3>Projects</h3>
+  <h2>Smith'Inn</h2>
+  <a href="https://www.facebook.com/Redacted6">Smith'Inn's Company - Redacted6</a>
+  <iframe width="750" height="750" src="https://www.youtube.com/embed/1W9WNkDU81U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <h2>VR Project</h2>
+  <iframe width="750" height="750" src="https://www.youtube.com/embed/vdfBVo6la4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <div class="tab-pane" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-  Yes
+  <h2>Contact Me</h2>
+  <p>Phone Number: 0410331758</p>
+  <p>Email: thomas.nguyen898.gmail.com</p>
   </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Contact Me
-
-Phone Number: 0410331758
-
-Email: thomas.nguyen898.gmail.com
 
 ### Project
 
