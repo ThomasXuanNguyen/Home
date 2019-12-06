@@ -30,7 +30,7 @@ title: Thomas Xuan Nguyen's Portfolio Website
   <p>I already have my diploma of Digital and Interactive Games.</p>
   <p>I am a hard worker, good communicator and punctual.</p>
   <p>I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unreal.</p>
-  <a href="https://www.slideshare.net/slideshow/embed_code/key/tWrouxbmjC6hHN">Resume</a>
+  <a href="https://docs.google.com/document/d/1nJkc_jDLg4tZkgN3bzK59ySg2-neos4Otl3pyLVak4c/edit?usp=sharing">Resume</a>
   </div>
   <div class="tab-pane" id="project" role="tabpanel" aria-labelledby="project-tab">
   <h3>Projects</h3>
