@@ -44,6 +44,6 @@ title: Thomas Xuan Nguyen
   <div class="tab-pane" id="contact" role="tabpanel" aria-labelledby="contact-tab">
   <h2>Contact Me</h2>
   <p>Phone Number: 0410331758</p>
-  <p>Email: thomas.nguyen898.gmail.com</p>
+  <p>Email: thomas.nguyen898@gmail.com</p>
   </div>
 </div>
