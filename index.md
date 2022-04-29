@@ -26,9 +26,10 @@ title: Thomas Xuan Nguyen
   <a href="https://github.com/ThomasXuanNguyen">GitHub</a>
   <br>
   <h2>About Me</h2>
-  <p>My name is Thomas Nguyen. I am a games programmer who is currently studying for my Advance Diploma of Professional Game Development.</p>
+  <p>My name is Thomas Nguyen. I am a games programmer who finished his  Advance Diploma of Professional Game Development in 2019.</p>
   <p>I already have my diploma of Digital and Interactive Games.</p>
   <p>I am a hard worker, good communicator and punctual.</p>
+  <p>I have been working on an pre-exisiting app for Bankstown Sports Club as a Full Time Full Stack Developer contractor for 6 months.</p>
   <p>I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unreal.</p>
   <a href="https://docs.google.com/document/d/1nJkc_jDLg4tZkgN3bzK59ySg2-neos4Otl3pyLVak4c/edit?usp=sharing">Resume</a>
   </div>
