@@ -26,8 +26,7 @@ title: Thomas Xuan Nguyen
   <a href="https://github.com/ThomasXuanNguyen">GitHub</a>
   <br>
   <h2>About Me</h2>
-  <p>My name is Thomas Nguyen. I am a games programmer who finished his  Advance Diploma of Professional Game Development in 2019.</p>
-  <p>I already have my diploma of Digital and Interactive Games.</p>
+  <p>My name is Thomas Nguyen. I am a games programmer who finished his diploma of Digital and Interactive Games in 2018 and his Advance Diploma of     Professional Game Development in 2019 an.</p>
   <p>I am a hard worker, good communicator and punctual.</p>
   <p>I have been working on an pre-exisiting app for Bankstown Sports Club as a Full Time Full Stack Developer contractor for 6 months.</p>
   <p>I am a generalist, can code in C++/C#/Html/python and I have worked in Unity/Unreal.</p>
@@ -40,10 +39,14 @@ title: Thomas Xuan Nguyen
   <iframe width="750" height="750" src="https://www.youtube.com/embed/1W9WNkDU81U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <h2>VR Project</h2>
   <iframe width="750" height="750" src="https://www.youtube.com/embed/vdfBVo6la4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <h2>Bankstown Sports App</h2>
+  <a href="https://apps.apple.com/au/app/bankstown-sports/id1530485834">Apple Store Version</a>
+  <a href="https://play.google.com/store/apps/details?id=com.bankstown.sportscentredroid">Google Playstore Version</a>
   </div>
   <div class="tab-pane" id="contact" role="tabpanel" aria-labelledby="contact-tab">
   <h2>Contact Me</h2>
   <p>Phone Number: 0410331758</p>
-  <p>Email: thomas.nguyen898@gmail.com</p>
+  <p>Main Email: thomas1234lint@gmail.com</p>
+  <p>Alt Email: thomas.nguyen898@gmail.com</p>
   </div>
 </div>
