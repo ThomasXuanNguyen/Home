@@ -33,16 +33,18 @@ title: Thomas Xuan Nguyen
   <div class="tab-pane" id="project" role="tabpanel" aria-labelledby="project-tab">
   <h3>Projects</h3>
   <h2>Smith'Inn</h2>
+  <p></p>
   <a href="https://www.facebook.com/Redacted6">Smith'Inn's Company - Redacted6's FaceBook</a>
-  <p>My End of year project during my studies where I team up with two designers and 2 artist to make a game after spentingg 2 years of studies.The Smith'Inn game was a simple blacksmith swordcrafting game where you have to fill out orders for customers of different variations</p>
+  <p>My End of year project during my studies where I team up with two designers and 2 artist to make a game after spentingg 2 years of studies.The Smith'Inn game was a simple blacksmith swordcrafting game where you have to fill out orders for customers of different variations.</p>
   <iframe width="750" height="500" src="https://www.youtube.com/embed/1W9WNkDU81U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <p></p>
   <h2>VR Project</h2>
   <p>This was an assigment for the VR section of my studies where I team up with 2 designers and "outsourced" artists to make a vr project.This project was based around a cleaning up game where you had to suck up objects or push objects off an office table.</p>
   <iframe width="750" height="500" src="https://www.youtube.com/embed/vdfBVo6la4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <h2>Bankstown Sports App</h2>
-  <p>This was my first developer job as a Jnr-mid Full Stack Developer for Bankstown Sports Club where I spent 6 months working on improving their mobile app</p>
-  <a href="https://apps.apple.com/au/app/bankstown-sports/id1530485834" src="https://cdn.moble.com/w/2374/447378/file/apple-01.jpg">Apple Store Version</a>
-  <a href="https://play.google.com/store/apps/details?id=com.bankstown.sportscentredroid" src="https://cdn.moble.com/w/2374/447377/file/google-01.jpg">Google Playstore Version</a>
+  <p>This was my first developer job as a Jnr-mid Full Stack Developer for Bankstown Sports Club where I spent 6 months working on improving their mobile app.</p>
+  <a href="https://apps.apple.com/au/app/bankstown-sports/id1530485834"><img src="https://cdn.moble.com/w/2374/447378/file/apple-01.jpg" width="100" height="132"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.bankstown.sportscentredroid"><img src="https://cdn.moble.com/w/2374/447377/file/google-01.jpg" width="100" height="132"></a>
   </div>
   <div class="tab-pane" id="contact" role="tabpanel" aria-labelledby="contact-tab">
   <h2>Contact Me</h2>
