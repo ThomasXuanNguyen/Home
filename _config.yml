@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Thomas Xuan Nguyen's Portfolio Website
-email: "thomas.nguyen898@gmail.com"
+email: "thomas1234lint@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   A Website protfolio for Thomas Xuan Nguyen.
 #baseurl: "" # the subpath of your site, e.g. /blog
