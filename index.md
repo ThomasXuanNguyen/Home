@@ -2,8 +2,6 @@
 layout: page
 title: Thomas Xuan Nguyen
 ---
-<img width="300" height="300" src="assets/Image.jpg" styles = "display: block; margin-left: auto; margin-right: auto">
-
 <!-- Nav tabs -->
 <ul class="nav nav-tabs" id="myTab" role="tablist">
   <li class="nav-item">
@@ -36,9 +34,9 @@ title: Thomas Xuan Nguyen
   <h3>Projects</h3>
   <h2>Smith'Inn</h2>
   <a href="https://www.facebook.com/Redacted6">Smith'Inn's Company - Redacted6</a>
-  <iframe width="750" height="750" src="https://www.youtube.com/embed/1W9WNkDU81U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="750" height="500" src="https://www.youtube.com/embed/1W9WNkDU81U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <h2>VR Project</h2>
-  <iframe width="750" height="750" src="https://www.youtube.com/embed/vdfBVo6la4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="750" height="500" src="https://www.youtube.com/embed/vdfBVo6la4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <h2>Bankstown Sports App</h2>
   <a href="https://apps.apple.com/au/app/bankstown-sports/id1530485834">Apple Store Version</a>
   <a href="https://play.google.com/store/apps/details?id=com.bankstown.sportscentredroid">Google Playstore Version</a>
@@ -47,6 +45,5 @@ title: Thomas Xuan Nguyen
   <h2>Contact Me</h2>
   <p>Phone Number: 0410331758</p>
   <p>Main Email: thomas1234lint@gmail.com</p>
-  <p>Alt Email: thomas.nguyen898@gmail.com</p>
   </div>
 </div>
